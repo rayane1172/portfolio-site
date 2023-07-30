@@ -105,7 +105,6 @@ header .links ul {
     padding: 0;
     margin: 0;
     min-width: 200px;
-    /* padding: 10px; */
     display: none;
     z-index: 999;
 }
@@ -115,7 +114,7 @@ header .links ul li a {
     display: block;
     color: black;
     padding: 15px;
-    padding-left: 10px;
+    padding-left: 8px;
     transition: 0.5s;
 }
 
