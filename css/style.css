@@ -132,8 +132,6 @@ header .links ul li:not(:last-child) a {
 }
 
 header .links ul li {
-    /* text-decoration: none; */
-    /* margin-bottom: 10px; */
     padding: 5px;
 }
 
@@ -217,7 +215,6 @@ section .container .feat p {
 }
 
 section .container .feat:hover {
-    /* border: 2px ; */
     box-shadow: 0px 0px 30px 10px #777;
     z-index: 1;
 }
